@@ -1,0 +1,4 @@
+df -h ======>storage
+top ========CPU
+free -h =======>ram
+To check which ports are opened in a system?     netstat -tulpn
