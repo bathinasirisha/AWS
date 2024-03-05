@@ -2,3 +2,5 @@ df -h ======>storage
 top ========CPU
 free -h =======>ram
 To check which ports are opened in a system?     netstat -tulpn
+to check which ports are opened in a system from remote system?
+telnet + IP address or hostname + port number
