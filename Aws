@@ -1,0 +1,8 @@
+EBS Volume mount 
+*****************
+mkfs -t xfs /dev/xvdf
+
+file -s /dev/xvdf
+
+mount /dev/xvdf /app
+******************
