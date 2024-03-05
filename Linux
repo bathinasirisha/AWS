@@ -1,6 +1,8 @@
 df -h ======>storage
 top ========CPU
 free -h =======>ram
+how to check os and kernel version?
+kernel uname -r
 To check which ports are opened in a system?     netstat -tulpn
 to check which ports are opened in a system from remote system?
 telnet + IP address or hostname + port number
